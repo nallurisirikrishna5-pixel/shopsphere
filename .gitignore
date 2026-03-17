@@ -1,0 +1,23 @@
+﻿# Node / React / Angular
+node_modules/
+dist/
+.angular/
+.cache/
+
+# .NET
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+
+# Environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/settings.json
